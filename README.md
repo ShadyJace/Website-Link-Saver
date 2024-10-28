@@ -1,2 +1,2 @@
 # Website-Link-Saver
-An application to conveniantly save website links and sort them into lists  
+An application to conveniently save website links and sort them into lists  
